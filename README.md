@@ -11,8 +11,7 @@ Sou programadora iniciante, com objetivo de ser Desenvolvedora de Jogos.
 - nickyandrad331@gmail.com
   
 ### LINGUAGENS EM APRENDIZADO
-- Java Script
-- Python
+- C++
 
 ### TRAJETÓRIA
 - Lógica de programação - local atual!
