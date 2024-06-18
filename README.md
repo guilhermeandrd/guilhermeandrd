@@ -8,7 +8,7 @@ Sou programadora iniciante, com objetivo de ser Desenvolvedora de Jogos.
 - Adoro jgos, rpg e histórias em geral
 
 ### CONTATOS 
-- nickyandrad331@gmail.com
+- nickyandrade331@gmail.com
   
 ### LINGUAGENS EM APRENDIZADO
 - C++
