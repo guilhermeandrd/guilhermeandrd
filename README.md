@@ -5,7 +5,7 @@ Sou programadora iniciante, com objetivo de ser Desenvolvedora de Jogos.
 ### SOBRE MIM
 - 18 anos
 - Atualmente estou no 1 semestre de Ciência da Computação
-- Adoro jgos, rpg e histórias em geral
+- Adoro jogos, rpg e histórias em geral
 
 ### CONTATOS 
 - nickyandrade331@gmail.com
