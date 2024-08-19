@@ -1,6 +1,6 @@
 # **Olá, aqui é o Guilherme**
 
-Sou programador iniciante, com objetivo de ser Desenvolvedora de Jogos.
+Sou programador iniciante, com objetivo de ser Desenvolvedor de Jogos.
 
 ### SOBRE MIM
 - 18 anos
