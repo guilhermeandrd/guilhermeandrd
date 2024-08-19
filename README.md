@@ -1,6 +1,6 @@
-# **Olá, aqui é a Nicoly!**
+# **Olá, aqui é o Guilherme**
 
-Sou programadora iniciante, com objetivo de ser Desenvolvedora de Jogos.
+Sou programador iniciante, com objetivo de ser Desenvolvedora de Jogos.
 
 ### SOBRE MIM
 - 18 anos
@@ -8,7 +8,7 @@ Sou programadora iniciante, com objetivo de ser Desenvolvedora de Jogos.
 - Adoro jogos, rpg e histórias em geral
 
 ### CONTATOS 
-- nickyandrade331@gmail.com
+- guilherme.andrade@alu.ufc.br
   
 ### LINGUAGENS EM APRENDIZADO
 - C++
