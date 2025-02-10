@@ -3,7 +3,7 @@
 Sou programador iniciante, com objetivo de ser Desenvolvedor de Jogos.
 
 ### SOBRE MIM
-- 18 anos
+- 19 anos
 - Atualmente estou no 2 semestre de Ciência da Computação
 - Adoro jogos, rpg e histórias em geral
 
