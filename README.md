@@ -4,7 +4,7 @@ Sou programador iniciante, com objetivo de ser Desenvolvedor de Jogos.
 
 ### SOBRE MIM
 - 19 anos
-- Atualmente estou no 2 semestre de Ciência da Computação
+- Atualmente estou no terceiro semestre de Ciência da Computação
 - Adoro jogos, rpg e histórias em geral
 
 ### CONTATOS 
@@ -13,9 +13,8 @@ Sou programador iniciante, com objetivo de ser Desenvolvedor de Jogos.
 ### LINGUAGENS EM APRENDIZADO
 - C++
 - Java
+- C
+- Haskell
 
 ### TRAJETÓRIA
-- Lógica de programação
-- Estrutura e modelagem de dados. - em estudo
-- Programão orientada a objetos. - em estudo
-- BLOCKED.
+
