@@ -28,7 +28,7 @@
   <a href="mailto:guilherme.andrade@alu.ufc.br">
     <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=microsoftoutlook&logoColor=white&color=%23282A36" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/guilherme-andrade" target="_blank">
+  <a href="https://www.linkedin.com/in/guilherme-andrade-73a132248" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=%23282A36" alt="LinkedIn">
   </a>
   <a href="https://instagram.com/gui.andrd" target="_blank">
