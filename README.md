@@ -1,10 +1,17 @@
-## Olá, Sou o guilhermeandrd
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Lilita+One&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=Bem+vindo(a)!;+Sou+o+Guilherme+Andrade!" alt="Typing SVG" />
+  </a>
+</div>
 
-- Atualmente estou no terceiro semestre de Ciência da Computação
-- Estou estudando Java e C
-- Fazendo projetos em C++
+<p align="center">Estou atualmente no terceiro semestre no curso Ciêcias da Computação na UFC (Universidade Federal do Ceará). Estou atualmente trabalhando em projetos com a linguagem C++, buscando novos conhecimentos e participando de um desenvolvimento de um APP usando Kotlin e Android Studio.
 
-[![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeandrd&show_icons=true&theme=dracula&hide_rank=true)](https://github.com/guilhermeandrd/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeandrd&layout=donut&theme=dracula)](https://github.com/guilhermeandrd/github-readme-stats)
+
+#
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=guilhermeandrd&show_icons=true&theme=dark" height="150" alt="stats graph" />
+    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermeandrd&layout=compact&langs_count=8&theme=dark" />
+</div>
 
 ## Linguagens que utilizo:
 
@@ -26,13 +33,13 @@
 ## Contato
 <div align="center"> 
   <a href="mailto:guilherme.andrade@alu.ufc.br">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=microsoftoutlook&logoColor=white&color=%23282A36" alt="Email">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/guilherme-andrade-73a132248" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=%23282A36" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://instagram.com/gui.andrd" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=%23282A36" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </div>
 
