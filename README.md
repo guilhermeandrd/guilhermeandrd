@@ -6,13 +6,6 @@
 
 <p align="center">Estou atualmente no terceiro semestre no curso Ciêcias da Computação na UFC (Universidade Federal do Ceará). Estou atualmente trabalhando em projetos com a linguagem C++, buscando novos conhecimentos e participando de um desenvolvimento de um APP usando Kotlin e Android Studio.
 
-
-#
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=guilhermeandrd&show_icons=true&theme=dark" height="150" alt="stats graph" />
-    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermeandrd&layout=compact&langs_count=8&theme=dark" />
-</div>
-
 ## Linguagens que utilizo:
 
 <p align="left">
