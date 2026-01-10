@@ -18,9 +18,7 @@
   <a href="https://www.iso.org/standard/74528.html" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" alt="C"/>
   </a>
-  <a href="https://www.haskell.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" width="40" height="40" alt="Haskell"/>
-  </a>
+ 
 </p>
 
 ## Contato
