@@ -6,7 +6,7 @@
 
 <p align="center">Estou atualmente no terceiro semestre no curso Ciêcias da Computação na UFC (Universidade Federal do Ceará). Estou atualmente trabalhando em projetos com a linguagem C++, buscando novos conhecimentos e participando de um desenvolvimento de um APP usando Kotlin e Android Studio.
 
-## Linguagens que utilizo:
+## Tecnologias que utilizo:
 
 <p align="left">
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
@@ -17,6 +17,12 @@
   </a>
   <a href="https://www.iso.org/standard/74528.html" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  </a>
+  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" target="_blank" rel=noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" alt="Spring"/>
+  </a>
+  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" target="_blank" rel=noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/>   
   </a>
  
 </p>
