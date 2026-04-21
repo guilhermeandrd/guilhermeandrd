@@ -8,7 +8,7 @@
 
 ## Tecnologias que utilizo:
 
-<p align="left">
+<p align="center">
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
   </a>
