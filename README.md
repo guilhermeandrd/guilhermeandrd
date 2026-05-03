@@ -4,30 +4,23 @@
   </a>
 </div>
 
-<p align="center">Estou atualmente no terceiro semestre no curso Ciêcias da Computação na UFC (Universidade Federal do Ceará). Estou atualmente trabalhando em projetos com a linguagem C++, buscando novos conhecimentos e participando de um desenvolvimento de um APP usando Kotlin e Android Studio.
+<p align="center">Estou atualmente no terceiro semestre no curso Ciêcias da Computação na UFC (Universidade Federal do Ceará). Estou atualmente trabalhando em projetos com a linguagem C++, buscando novos conhecimentos e participando de um desenvolvimento de um APP usando Kotlin e Android Studio.</p>
 
-## Tecnologias que utilizo:
 
-<p align="center">
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  </a>
-  <a href="https://www.iso.org/standard/74528.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  </a>
-  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" target="_blank" rel=noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" alt="Spring"/>
-  </a>
-  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" target="_blank" rel=noreferrer">
-    <img allign="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/>   
-  </a>
-</p>
+<div align="center">
+  <h2>Tecnologias que utilizo:</h2>
+</div>
 
-## Contato
-<div align="center" justify-content="center"> 
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" alt="Spring"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/>   
+</div>
+
+<div align="center">
+  <h2>Contato:</h2>
   <a href="mailto:guilherme.andrade@alu.ufc.br">
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
   </a>
