@@ -27,7 +27,7 @@
 </p>
 
 ## Contato
-<div align="center"> 
+<div align="center" justify-content="center"> 
   <a href="mailto:guilherme.andrade@alu.ufc.br">
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
   </a>
