@@ -6,17 +6,17 @@
 
 <p align="center">Estou atualmente no terceiro semestre no curso Ciêcias da Computação na UFC (Universidade Federal do Ceará). Estou atualmente trabalhando em projetos com a linguagem C++, buscando novos conhecimentos e participando de um desenvolvimento de um APP usando Kotlin e Android Studio.</p>
 
-
 <div align="center">
   <h2>Tecnologias que utilizo:</h2>
-</div>
-
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" alt="Spring"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/>   
+  <table align="center">
+    <tr>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/></td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java"/></td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" alt="C"/></td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" alt="Spring"/></td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/></td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
